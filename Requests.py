@@ -1,4 +1,3 @@
-#coding=utf-8
 import os #导入os库
 os.system('pip install requests >nul >nul') #安装requests工具
 import requests #导入requests库
