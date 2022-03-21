@@ -5,7 +5,7 @@ import requests #导入requests库
 
 
 #打印内容
-print("python爬虫3.0.0") #打印此软件版本
+print("python程序3.0.0") #打印此软件版本
 
 #打印空行
 print()
