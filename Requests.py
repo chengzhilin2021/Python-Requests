@@ -37,6 +37,7 @@ while 1 == 1:
 
         #结束
         print("爬取完成")
+        input("按任意键退出")
         exit()
 
 
@@ -54,6 +55,7 @@ while 1 == 1:
 
         #结束
         print("爬取完成")
+        input("按任意键退出")
         exit()
 
     #爬取B站
@@ -71,6 +73,7 @@ while 1 == 1:
 
         #结束
         print("爬取完成")
+        input("按任意键退出")
         exit()
 
 
@@ -89,6 +92,7 @@ while 1 == 1:
 
         #结束
         print("爬取完成")
+        input("按任意键退出")
         exit()
         #爬取自定义网站
     while 1 == 1:
@@ -111,6 +115,7 @@ while 1 == 1:
 
                 #结束
                 print("爬取完成")
+                input("按任意键退出")
                 exit()
             else:
                 if Return == "N":
@@ -127,6 +132,7 @@ while 1 == 1:
 
                     #结束
                     print("爬取完成")
+                    input("按任意键退出")
                     exit()
                 else:
                     print("您输入错误，请重新输入！！")
