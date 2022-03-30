@@ -3,9 +3,6 @@ os.system('pip install requests >nul >nul') #安装requests工具
 import requests #导入requests库
 
 
-#打印内容
-print("python程序3.0.2") #打印此软件版本
-
 #打印空行
 print()
 print()
