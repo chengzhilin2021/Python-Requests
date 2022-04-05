@@ -1,6 +1,9 @@
 "# Python-Requests" 
-#### Start this project
-Open in Python
+#### 更新日志
+1.0 开始运行
+2.0 加入自定义功能
+3.0 修复了整体软件的稳定性
+3.9（内部测试版） 加入了header，可以进行爬取真正的源码；并增加了对图片的支持（只能爬取百度贴吧）
 
-####  Edit this item
-Edit from Visual Studio Code
+#### 内测版本下载地址
+
