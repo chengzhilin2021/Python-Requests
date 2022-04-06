@@ -1,4 +1,5 @@
 #### 更新日志
+
 * 1.0 开始运行  
 * 2.0 加入自定义功能  
 * 3.0 修复了整体软件的稳定性  
@@ -7,7 +8,7 @@
 * 4.1 修复需要删除C:\img文件夹的Bug，会自动创建文件夹  
 * 4.2 __(内部测试版)__ 增加了自动命名功能，稳定性待测试  
 
-#### 内测版本链接
+##### 内测版本链接
 ~~[Beta 4.2](https://github.com/chengzhilin2021/Python-Requests/blob/main/beta/beta4.2.py)~~  
 [Beta 4.9](https://github.com/chengzhilin2021/Python-Requests/blob/main/beta/beta4.9.py)  
 
