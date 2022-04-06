@@ -8,7 +8,7 @@
 4.1 修复需要删除C:\img文件夹的Bug，会自动创建文件夹  
 4.2 （内部测试版）增加了自动命名功能，稳定性待测试  
 
-#### 内测版本下载链接
-[Beta 4.2](cmd/c git clone https://github.com/chengzhilin2021/Python-Requests.git)  
-[Beta 4.9](https://raw.githubusercontent.com/chengzhilin2021/Python-Requests/main/beta/beta4.9.py)  
+#### 内测版本链接
+[Beta 4.2](https://github.com/chengzhilin2021/Python-Requests/blob/main/beta/beta4.2.py)  
+[Beta 4.9](https://github.com/chengzhilin2021/Python-Requests/blob/main/beta/beta4.9.py)  
 
