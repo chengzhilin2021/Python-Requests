@@ -11,6 +11,12 @@
 * 4.9 __(内部测试版)__ 增加了用户输入错误自动改正的功能  
 * 5.0 修复了一些已知问题
 
+#### 演示
+
+##### html爬取
+
+![爬取html](https://github.com/chengzhilin2021/Python-Requests/blob/main/Pictures/requests%20html.gif)
+
 内测版本链接
 ===
 ~~[Beta 4.2](https://github.com/chengzhilin2021/Python-Requests/blob/main/beta/beta4.2.py)~~  
