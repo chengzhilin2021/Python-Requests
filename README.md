@@ -17,6 +17,15 @@ __html爬取__
 
 ![爬取html](https://github.com/chengzhilin2021/Python-Requests/blob/main/Pictures/requests%20html.gif)
 
+header提供
+===
+
+__1.__
+`<"User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534.57.2 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2">`
+
+__2.__
+`<"User-Agent" : "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1 Trident/5.0;">`
+
 内测版本链接
 ===
 ~~[Beta 4.2](https://github.com/chengzhilin2021/Python-Requests/blob/main/beta/beta4.2.py)~~  
