@@ -8,10 +8,10 @@
 * 4.0 修复了一些已知问题  
 * 4.1 修复需要删除C:\img文件夹的Bug，会自动创建文件夹  
 * 4.2 __(内部测试版)__ 增加了自动命名功能，稳定性待测试  
-* 4.9 __(内部测试版)__ 增加了用户输入错误自动改正的功能
+* 4.9 __(内部测试版)__ 增加了用户输入错误自动改正的功能  
+* 5.0 修复了一些已知问题
 
 内测版本链接
 ===
 ~~[Beta 4.2](https://github.com/chengzhilin2021/Python-Requests/blob/main/beta/beta4.2.py)~~  
-[Beta 4.9](https://github.com/chengzhilin2021/Python-Requests/blob/main/beta/beta4.9.py)  
-
+~~[Beta 4.9](https://github.com/chengzhilin2021/Python-Requests/blob/main/beta/beta4.9.py)~~  
