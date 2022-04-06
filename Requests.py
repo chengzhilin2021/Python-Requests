@@ -1,6 +1,6 @@
-import os #导入os库
+import os  # 导入os库
 os.system('pip install requests >nul >nul') #安装requests工具
-import requests #导入requests库
+import requests  # 导入requests库
 
 header = {
     "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534.57.2 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2"
@@ -146,16 +146,25 @@ while 1 == 1:
         # 导入库
         import urllib
         import urllib.request
+
         from lxml import etree
 
         answer = input("请输入需要爬取的贴吧：")
         begin = input("请输入起始页码：")
         end = input("请输入结束页码：")
-        print(r"将自动保存至C:\img文件夹！！！")
-        print("不要创建，该程序会自动创建此文件夹！")
+        
+        
+        if begin > end:
+            a = input("您可能输入错误，已自动为您调换")
+            temporary = begin
+            begin = end
+            end = temporary 
+        else:
+            exit()
 
         # 创建文件夹
-        mkpath = "C:\\img\\百度贴吧图片\\"
+        mkpath = "C:\\" + answer + "吧图片\\"
+        print(mkpath)
         if os.path.isdir(mkpath) == False:
             os.mkdir(mkpath)
         
@@ -204,7 +213,7 @@ while 1 == 1:
 
                 image = urllib.request.urlopen(imagesLink).read()
 
-                file = open(r"C:\img\\百度贴吧图片\\"+str(self.fileName)+".jpg","wb")
+                file = open(mkpath+str(self.fileName)+".jpg","wb")
                 file.write(image)
 
                 file.close()
