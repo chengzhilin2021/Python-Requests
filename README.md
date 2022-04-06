@@ -10,6 +10,6 @@
 ***
 
 #### 内测版本链接
-[Beta 4.2](https://github.com/chengzhilin2021/Python-Requests/blob/main/beta/beta4.2.py)  
+~~[Beta 4.2](https://github.com/chengzhilin2021/Python-Requests/blob/main/beta/beta4.2.py)~~  
 [Beta 4.9](https://github.com/chengzhilin2021/Python-Requests/blob/main/beta/beta4.9.py)  
 
