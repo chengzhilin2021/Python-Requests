@@ -9,23 +9,23 @@
 * 4.1 修复需要删除C:\img文件夹的Bug，会自动创建文件夹  
 * 4.2 __(内部测试版)__ 增加了自动命名功能，稳定性待测试  
 * 4.9 __(内部测试版)__ 增加了用户输入错误自动改正的功能  
-* 5.0 修复了一些已知问题
-* 5.1 __(公测版)__ 增加了使用者某些库未安装无法运行的问题，以及用户不知道保存路径的问题
+* 5.0 修复了一些已知问题  
+* 5.1 __(公测版)__ 增加了使用者某些库未安装无法运行的问题，以及用户不知道保存路径的问题  
 
 #### 演示
 
 * __html爬取__
 
-![爬取html](https://github.com/chengzhilin2021/Python-Requests/blob/main/Pictures/requests%20html.gif)
+![图片跑到了外太空](https://github.com/chengzhilin2021/Python-Requests/blob/main/Pictures/requests%20html.gif)
 
 header提供
 ===
 
 __1.__
-`<"User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534.57.2 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2">`
+`<"User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534.57.2 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2">`  
 
 __2.__
-`<"User-Agent" : "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1 Trident/5.0;">`
+`<"User-Agent" : "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1 Trident/5.0;">`  
 
 内测版本链接
 ===
@@ -36,4 +36,8 @@ Dev
 
 Beta
 ---
-[Beta 5.1](https://github.com/chengzhilin2021/Python-Requests/blob/main/Beta/Beta%205.1.py)
+[Beta 5.1](https://github.com/chengzhilin2021/Python-Requests/blob/main/Beta/Beta%205.1.py)  
+
+```
+import sys
+```
