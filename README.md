@@ -22,10 +22,10 @@ header提供
 ===
 
 __1.__
-`<"User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534.57.2 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2">`  
+``` "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534.57.2 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2" ```  
 
 __2.__
-`<"User-Agent" : "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1 Trident/5.0;">`  
+``` "User-Agent" : "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1 Trident/5.0;" ```  
 
 内测版本链接
 ===
@@ -38,6 +38,3 @@ Beta
 ---
 [Beta 5.1](https://github.com/chengzhilin2021/Python-Requests/blob/main/Beta/Beta%205.1.py)  
 
-```
-import sys
-```
