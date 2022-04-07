@@ -2,7 +2,7 @@
 ===
 * **1.需要安装Python 3环境。**  
 * **如果没有安装Python 3，在确保已安装"应用安装程序(winget)"时，可以通过运行软件中提供的bat程序进行安装**  
-* **如果没有安装"应用安装程序(winget)"时，请单击[此链接来进行下载Python 3环境](https://www.python.org/ftp/python/3.10.4/python-3.10.4-amd64.exe)  
+* **如果没有安装"应用安装程序(winget)"时，请单击[此链接来进行下载Python 3环境](https://www.python.org/ftp/python/3.10.4/python-3.10.4-amd64.exe)**  
 
 更新日志  
 ===
