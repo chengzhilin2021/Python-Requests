@@ -18,6 +18,9 @@
 
 ![图片跑到了外太空](https://github.com/chengzhilin2021/Python-Requests/blob/main/Pictures/requests%20html.gif)
 
+__运行顺序__
+==
+
 header提供
 ===
 
