@@ -18,7 +18,8 @@
 
 ![图片跑到了外太空](https://github.com/chengzhilin2021/Python-Requests/blob/main/Pictures/requests%20html.gif "爬取html演示)
 
-运行顺序  
+* __运行顺序__  
+
 ===
 
 * 爬取源码  
