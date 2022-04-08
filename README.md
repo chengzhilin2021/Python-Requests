@@ -1,8 +1,16 @@
 运行需求
 ===
-* **1.需要安装Python 3环境。**  
+* **1. 需要Python 3环境。**  
+* **如何安装Python 3？  
 * **如果没有安装Python 3，在确保已安装"应用安装程序(winget)"时，可以通过运行软件中提供的bat程序进行安装**  
-* **如果没有安装"应用安装程序(winget)"时，请单击[此链接来进行下载Python 3环境](https://www.python.org/ftp/python/3.10.4/python-3.10.4-amd64.exe)**  
+* **如果没有安装"应用安装程序(winget)"时，请单击[此链接来进行下载Python 3](https://www.python.org/ftp/python/3.10.4/python-3.10.4-amd64.exe)**  
+* **2. 目前需要使用Windows环境，否则将无法运行。**
+* **3. 不允许使用Python 2环境，请进行升级！！！**
+* **4. 目前查看未安装库使用为pip命令，在Mac端或Linux端中，pip命令只能安装Python 2扩展包。**
+
+如何在非Windows端运行？
+===
+* **1. 使用终端安装Requests和X
 
 更新日志  
 ===
