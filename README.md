@@ -34,7 +34,7 @@
 
 ![图片跑到了外太空](https://github.com/chengzhilin2021/Python-Requests/blob/main/Pictures/requests%20html.gif "爬取html演示")
 
-header提供
+User-Agent提供
 ===
 
 __1.__
@@ -42,6 +42,12 @@ __1.__
 
 __2.__
 ``` "User-Agent" : "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1 Trident/5.0;" ```  
+
+为何会有两个User-Agent？
+===
+
+* **在使用爬取源码时，将会使用第一个(也就是其他浏览器的User-Agent)。**  
+* **在使用爬取图片时，由于只能爬取百度贴吧，所以使用"Internet Explorer"的User-Agent。**  
 
 内测版本链接
 ===
