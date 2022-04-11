@@ -79,9 +79,9 @@ Beta
 Dev
 ---
 
-* [Dev 4.2](https://github.com/chengzhilin2021/Python-Requests/blob/main/Dev/Dev%204.2.py)～～  
+* ~~[Dev 4.2](https://github.com/chengzhilin2021/Python-Requests/blob/main/Dev/Dev%204.2.py)~~  
 * ~~[Dev 4.9](https://github.com/chengzhilin2021/Python-Requests/blob/main/Dev/Dev%204.9.py)~~  
-* ~~[Dev 5.5](https://github.com/chengzhilin2021/Python-Requests/blob/main/Dev/Dev%205.5.py)~~  
+* [Dev 5.5](https://github.com/chengzhilin2021/Python-Requests/blob/main/Dev/Dev%205.5.py)  
 
 Beta
 ---
@@ -115,9 +115,10 @@ Beta版本出现了问题
 正式版出现了问题  
 ---
 #### 出现问题的解决方案
-* 如果您急需使用此软件，请使用[Dev 5.5](https://github.com/chengzhilin2021/Python-Requests/blob/main/Dev/Dev%205.5.py)  
-如何反馈  
-===  
+* 如您急需使用此软件，请使用[Dev 5.5](https://github.com/chengzhilin2021/Python-Requests/blob/main/Dev/Dev%205.5.py)  
+
+如何反馈
+===
 * 1.请向邮箱```chengzhilin2021@outlook.com```反馈  
 * 2.请切换至Dev或Beta版本正常使用  
-* 3.正式版目前还有某些问题，已在Dev 5.5版本中解决，为您带来的不便深感抱歉。  
+* 3.正式版目前还存在某些问题，已在Dev 5.5版本中解决，为您带来的不便深感抱歉。  
