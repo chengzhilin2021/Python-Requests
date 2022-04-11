@@ -4,7 +4,7 @@
 * **如何安装Python 3？**  
 * **在没有安装Python 3时，请在确保已安装"应用安装程序(winget)"时，可以通过运行软件中提供的bat程序进行安装**  
 * **在没有没有安装"应用安装程序(winget)"时，请单击[此链接来进行下载Python 3](https://www.python.org/ftp/python/3.10.4/python-3.10.4-amd64.exe)**  
-* **如果是[Mac](https://www.python.org/ftp/python/3.10.4/python-3.10.4-macos11.pkg)，请单击Mac或[单击此链接](https://www.python.org/ftp/python/3.10.4/python-3.10.4-macos11.pkg)进行下载进行下载安装**  
+* **如果是[Mac](https://www.python.org/ftp/python/3.10.4/python-3.10.4-macos11.pkg)，请单击Mac或[单击此链接](https://www.python.org/ftp/python/3.10.4/python-3.10.4-macos11.pkg)进行下载安装**  
 * **目前Linux端需要自行apt-get或yum进行安装**  
 * **2. 目前需要使用Windows环境，否则将无法运行。**  
 * **3. 不允许使用Python 2环境，请进行升级！！！**  
@@ -105,7 +105,7 @@ Beta版本出现了问题
 ---
 #### 模板  
 ```
-本人在chengzhilin2021/Python-Requests的项目的Dev[填写版本]+版本中发现了问题，  
+本人在chengzhilin2021/Python-Requests的项目的Beta[填写版本]+版本中发现了问题，  
 [描述问题]  
 ```
 * 然后发送至邮箱```chengzhilin2021@outlook.com```，本人一定会第一时间进行回复  
@@ -117,5 +117,5 @@ Beta版本出现了问题
 #### 正式版出现问题的概率较小  
 * 如果出现问题  
 * 1.请向邮箱```chengzhilin2021@outlook.com```反馈  
-* 2.请切换至Dev或Beta版本已正常使用  
+* 2.请切换至Dev或Beta版本正常使用  
 * 3.正式版目前还有某些问题，已在Dev 5.5版本中解决，为您带来的不便深感抱歉。  
