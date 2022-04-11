@@ -18,6 +18,12 @@
 * **2. 只能使用爬取源码，无法使用爬取图片**  
 * **3. 将在以后的更新中进行解决:blush:**  
 
+我的Gitee仓库
+===
+
+[单击此链接跳转](https://gitee.com/chengzhilin2021/Python-Requests)
+
+
 更新日志  
 ===
 
