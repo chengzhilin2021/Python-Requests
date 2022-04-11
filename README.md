@@ -75,8 +75,18 @@ Beta
 
 其他版本查看链接
 ===
-* 敬请期待
 
+Dev
+---
+
+* [Dev 4.2](https://github.com/chengzhilin2021/Python-Requests/blob/main/Dev/Dev%204.2.py)  
+* [Dev 4.9](https://github.com/chengzhilin2021/Python-Requests/blob/main/Dev/Dev%204.9.py)  
+* [Dev 5.5](https://github.com/chengzhilin2021/Python-Requests/blob/main/Dev/Dev%205.5.py)  
+
+Beta
+---
+
+* [Beta 5.1](https://github.com/chengzhilin2021/Python-Requests/blob/main/Beta/Beta%205.1.py)
 
 出现问题怎么办？
 ===
