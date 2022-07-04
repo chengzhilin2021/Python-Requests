@@ -161,6 +161,8 @@ while 1 == 1:
         answer = input("请输入需要爬取的贴吧：")
         begin = input("请输入起始页码：")
         end = input("请输入结束页码：")
+        begin = int(begin)
+        end = int(end)
         
         
         if begin > end:
@@ -168,8 +170,10 @@ while 1 == 1:
             temporary = begin
             begin = end
             end = temporary
+            begin = int(begin)
+            end = int(end)
         else:
-            exit()
+            pass
 
         # 创建文件夹
         if(platform.system()=='Windows'):
@@ -180,8 +184,8 @@ while 1 == 1:
                 os.mkdir(mkpath)
         else:
             import getpass
-            Desktop = getpass.getuser()
-            mkpath = "/Users/" + Desktop + "/Desktop/" + answer + "吧图片/"
+            UserName = getpass.getuser()
+            mkpath = "/home/" + UserName + "/Desktop/" + answer + "吧图片/"
             print("将保存至" + mkpath)
             input("按任意键继续")
             if os.path.isdir(mkpath) == False:
