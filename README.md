@@ -19,11 +19,6 @@
 * **2. 只能使用爬取源码，无法使用爬取图片**  
 * **3. 将在以后的更新中进行解决:blush:**  
 
-我的Gitee仓库
-===
-
-[单击此链接跳转](https://gitee.com/chengzhilin2021/Python-Requests)
-
 
 更新日志  
 ===
@@ -68,13 +63,8 @@ __2.__
 
 Dev
 ---
-~~[Dev 4.2]()~~  
-~~[Dev 4.9]()~~  
-[Dev 5.5]()  
+[Dev 5.5](https://objects.githubusercontent.com/github-production-release-asset-2e65be/471942894/a9e2bae5-a659-4f92-855e-7cef6c3e7dbc?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20220704%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220704T120859Z&X-Amz-Expires=300&X-Amz-Signature=41abfe948aeaf0eab1316d1faab9221837e8c99f28956592b2d7fc8853f252e4&X-Amz-SignedHeaders=host&actor_id=88227047&key_id=0&repo_id=471942894&response-content-disposition=attachment%3B%20filename%3DDev.5.5.py&response-content-type=application%2Foctet-stream)  
 
-Beta
----
-[Beta 5.1]()  
 
 其他版本查看链接
 ===
@@ -82,14 +72,9 @@ Beta
 Dev
 ---
 
-* ~~[Dev 4.2](https://github.com/chengzhilin2021/Python-Requests/blob/main/Dev/Dev%204.2.py)~~  
-* ~~[Dev 4.9](https://github.com/chengzhilin2021/Python-Requests/blob/main/Dev/Dev%204.9.py)~~  
 * [Dev 5.5](https://github.com/chengzhilin2021/Python-Requests/blob/main/Dev/Dev%205.5.py)  
 
-Beta
----
 
-* [Beta 5.1](https://github.com/chengzhilin2021/Python-Requests/blob/main/Beta/Beta%205.1.py)
 
 出现问题怎么办？
 ===
