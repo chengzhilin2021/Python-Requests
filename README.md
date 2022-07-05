@@ -56,14 +56,6 @@ __2.__
 * **在使用爬取源码时，将会使用第一个(也就是其他浏览器的User-Agent)。**  
 * **在使用爬取图片时，由于只能爬取百度贴吧，所以使用"Internet Explorer"的User-Agent。**  
 
-其他版本下载链接
-===
-
-### 目前下载链接失效，非常抱歉
-
-Dev
----
-[Dev 5.5](https://objects.githubusercontent.com/github-production-release-asset-2e65be/471942894/a9e2bae5-a659-4f92-855e-7cef6c3e7dbc?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20220704%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220704T120859Z&X-Amz-Expires=300&X-Amz-Signature=41abfe948aeaf0eab1316d1faab9221837e8c99f28956592b2d7fc8853f252e4&X-Amz-SignedHeaders=host&actor_id=88227047&key_id=0&repo_id=471942894&response-content-disposition=attachment%3B%20filename%3DDev.5.5.py&response-content-type=application%2Foctet-stream)  
 
 
 其他版本查看链接
