@@ -3,8 +3,8 @@
 * **1. 需要Python 3环境。**  
 * **如何安装Python 3？**  
 * **在没有安装Python 3时，请在确保已安装"应用安装程序(winget)"时，可通过运行软件中提供的bat文件进行安装**  
-* **在没有安装"应用安装程序(winget)"时，请单击[此链接来进行下载Python 3](https://www.python.org/ftp/python/3.10.4/python-3.10.4-amd64.exe)**  
-* **如果是[Mac](https://www.python.org/ftp/python/3.10.4/python-3.10.4-macos11.pkg)，请[单击此链接](https://www.python.org/ftp/python/3.10.4/python-3.10.4-macos11.pkg)进行下载安装**  
+* **在没有安装"应用安装程序(winget)"时，请单击[此链接来进行下载Python 3](https://www.python.org/ftp/python/3.10.5/python-3.10.5-amd64.exe)**  
+* **如果是[Mac](https://www.python.org/ftp/python/3.10.5/python-3.10.5-macos11.pkg)，请[单击此链接](https://www.python.org/ftp/python/3.10.5/python-3.10.5-macos11.pkg)进行下载安装**  
 * **目前Linux端可通过提供的sh文件进行安装**  
 * **2. 目前需要使用Windows环境，否则将无法运行。**  
 * **3. 不允许使用Python 2环境，请进行升级！！！**  
@@ -35,6 +35,10 @@
 * 5.1 __(公测版)__ 增加了使用中某些库未安装无法运行的问题，以及用户不知道保存路径的问题  
 * 5.5 __(内部测试版)__ 增加了支持Mac和Linux等系统
 * 5.51 __(内部测试版)__ 修复了部分已知问题
+
+README更新
+---
+2022年7月13日：将Python下载链接替换至3.10.5版本
 
 #### 演示
 
