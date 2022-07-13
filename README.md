@@ -2,7 +2,7 @@
 ===
 * **1. 需要Python 3环境。**  
 * **如何安装Python 3？**  
-* **在没有安装Python 3时，请在确保已安装"应用安装程序(winget)"时，可通过运行软件中提供的bat程序进行安装**  
+* **在没有安装Python 3时，请在确保已安装"应用安装程序(winget)"时，可通过运行软件中提供的bat文件进行安装**  
 * **在没有安装"应用安装程序(winget)"时，请单击[此链接来进行下载Python 3](https://www.python.org/ftp/python/3.10.4/python-3.10.4-amd64.exe)**  
 * **如果是[Mac](https://www.python.org/ftp/python/3.10.4/python-3.10.4-macos11.pkg)，请[单击此链接](https://www.python.org/ftp/python/3.10.4/python-3.10.4-macos11.pkg)进行下载安装**  
 * **目前Linux端可通过提供的sh文件进行安装**  
@@ -34,12 +34,13 @@
 * 5.0 修复了一些已知问题（目前还存在某些问题，请使用Dev 5.5版本解决）  
 * 5.1 __(公测版)__ 增加了使用中某些库未安装无法运行的问题，以及用户不知道保存路径的问题  
 * 5.5 __(内部测试版)__ 增加了支持Mac和Linux等系统
+* 5.51 __(内部测试版)__ 修复了部分已知问题
 
 #### 演示
 
 * __html爬取__
 
-![图片跑到了外太空](https://raw.githubusercontent.com/chengzhilin2021/Python-Requests/main/Pictures/requests%20html.gif "爬取html演示")
+![图片跑到了外太空](./Image/requests%20html.gif "爬取html演示")
 
 User-Agent提供
 ===
