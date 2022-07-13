@@ -39,8 +39,7 @@
 #### 演示
 
 * __html爬取__
-
-![图片跑到了外太空]([./Image/requests%20html.gif](https://raw.githubusercontent.com/chengzhilin2021/Python-Requests/main/Image/requests%20html.gif) "爬取html演示")
+![图片跑到了外太空](https://raw.githubusercontent.com/chengzhilin2021/Python-Requests/main/Image/requests%20html.gif "爬取html演示")
 
 User-Agent提供
 ===
